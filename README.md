@@ -73,9 +73,9 @@ Visit http://127.0.0.1:5000
 
 ## 🛠 Usage
 
--Enter a URL into the input form
+- Enter a URL into the input form
 
--The model analyzes it and returns either:
+- The model analyzes it and returns either:
 
 ✅ Legitimate
 

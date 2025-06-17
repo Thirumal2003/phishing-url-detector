@@ -77,7 +77,12 @@ Phishing attacks are a major cybersecurity threat, deceiving users into revealin
 
 - Confusion matrix and classification reports generated for all models
 
-= Feature engineering and dimensionality reduction improved performance
+- Feature engineering and dimensionality reduction improved performance
+
+  ![image](https://github.com/user-attachments/assets/6aa7e66d-ed45-4978-aef0-8b3dab0c7429)
+  ![image](https://github.com/user-attachments/assets/25054a41-d104-443f-94aa-44a564f02a02)
+
+
 
 ---
 

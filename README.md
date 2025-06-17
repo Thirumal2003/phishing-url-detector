@@ -9,7 +9,6 @@ This project leverages machine learning algorithms to detect phishing attacks ba
 - [Overview](#overview)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Dataset](#dataset)
 - [Results](#results)
@@ -46,31 +45,6 @@ Phishing attacks are a major cybersecurity threat, deceiving users into revealin
 
 ---
 
-## 🚀 Getting Started
-
-1. **Clone the repository**  
-
-git clone https://github.com/your-username/phishing-url-detector.git
-cd phishing-url-detector
-
- ---
- 
-2. Install dependencies
-
-pip install -r requirements.txt
-
----
-
-3. Run the Flask app
-
-python app.py
-
----
-
-4. Open browser
-
-Visit http://127.0.0.1:5000 
-
 ## 🛠 Usage
 
 - Enter a URL into the input form
@@ -80,6 +54,58 @@ Visit http://127.0.0.1:5000
 ✅ Legitimate
 
 🚫 Phishing
+
+---
+## 📂 Dataset
+
+- 11,430 URLs
+
+- 50% phishing, 50% legitimate
+
+- 87 extracted features per URL
+
+- Balanced dataset ensures reliable model training
+
+---
+
+## 📈 Results
+
+- Logistic Regression achieved the highest testing accuracy of 91%
+
+- Confusion matrix and classification reports generated for all models
+
+= Feature engineering and dimensionality reduction improved performance
+
+---
+
+## 🌱 Future Enhancements
+
+- Real-time URL monitoring (browser plugin)
+
+- Integration with deep learning (LSTM/CNN)
+
+- HTML/content-based phishing detection
+
+- API deployment for enterprise use
+
+- Mobile compatibility and alerts
+
+- Multi-layer integration with cybersecurity systems
+
+---
+
+## 👥 Contributors
+
+- Dineshkanna K – kit.25.21bad015@gmail.com
+
+- Thirumal P – thiru43006@gmail.com
+
+- Victor Moses M P – kit.25.21bad060@gmail.com
+
+  🎓 Submitted for B.Tech in Artificial Intelligence and Data Science at KIT - Kalaignarkarunanidhi Institute of Technology
+
+
+
 
 
 

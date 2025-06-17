@@ -52,13 +52,13 @@ Phishing attacks are a major cybersecurity threat, deceiving users into revealin
 
 git clone https://github.com/your-username/phishing-url-detector.git
 cd phishing-url-detector
-nstall dependencies
 
-bash
-Copy
-Edit
+ ---
+ 
+2. Install dependencies
+
 pip install -r requirements.txt
-Run the Flask app
+
 
 bash
 Copy

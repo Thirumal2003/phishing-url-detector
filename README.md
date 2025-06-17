@@ -58,6 +58,9 @@ Phishing attacks are a major cybersecurity threat, deceiving users into revealin
 ---
 ## 📂 Dataset
 
+
+![image](https://github.com/user-attachments/assets/3745e11d-aecf-419e-873b-c9340794777a)
+
 - 11,430 URLs
 
 - 50% phishing, 50% legitimate
@@ -103,8 +106,8 @@ Phishing attacks are a major cybersecurity threat, deceiving users into revealin
 - Victor Moses M P – kit.25.21bad060@gmail.com
 
   🎓 Submitted for B.Tech in Artificial Intelligence and Data Science at KIT - Kalaignarkarunanidhi Institute of Technology
+  
 
-![image](https://github.com/user-attachments/assets/3745e11d-aecf-419e-873b-c9340794777a)
 
 
 
